@@ -2,7 +2,7 @@
 #include <string>
 #include "checking/inputCheck.h"
 #include <vector>
-#include "class_methods.h"
+#include "class_string.h"
 
 
 using namespace std;
@@ -10,8 +10,6 @@ using namespace std;
 //        рядка до тексту і визначення відсотка приголосних літер у тексті. Створити масив
 //об'єктів даного класу. Доповнити декілька текстів новими рядками. Визначити
 //текст з найбільшим відсотком приголосних літер
-
-
 
 
 void app(){

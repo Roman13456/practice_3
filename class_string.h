@@ -2,7 +2,6 @@
 // Created by User on 07.04.2023.
 //
 using namespace std;
-
 class str{
 private:
     string text;
@@ -24,3 +23,6 @@ public:
     double calcPercantage();
 
 };
+
+void readObjects(vector<str> array);
+str calcHighestPercentage(vector<str> arr);
